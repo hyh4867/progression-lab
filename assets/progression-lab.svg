@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Progression Lab schematic</title>
+  <desc id="desc">An original illustration: four chord cards with Roman numerals, a tension curve with a dashed target, and a guitar chord diagram. Not a screenshot.</desc>
+  <rect width="1200" height="700" fill="#eef2f8"/>
+  <circle cx="1090" cy="80" r="210" fill="#dce6fb"/>
+  <circle cx="90" cy="660" r="180" fill="#e2e9f4"/>
+  <text x="78" y="92" fill="#526176" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">CHORDS → FUNCTION → TENSION → VOICINGS</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="78" y="130" width="150" height="112" rx="16" fill="#eef2ff" stroke="#2d5ce3" stroke-width="2"/>
+    <text x="100" y="178" fill="#182535" font-size="32" font-weight="700">C</text>
+    <text x="100" y="220" fill="#2d5ce3" font-family="Georgia, serif" font-size="28" font-weight="700">I</text>
+    <rect x="248" y="130" width="150" height="112" rx="16" fill="#e6f5f0" stroke="#0b7a5e" stroke-width="2"/>
+    <text x="270" y="178" fill="#182535" font-size="32" font-weight="700">Dm7</text>
+    <text x="270" y="220" fill="#0b7a5e" font-family="Georgia, serif" font-size="28" font-weight="700">ii7</text>
+    <rect x="418" y="130" width="150" height="112" rx="16" fill="#fdeee5" stroke="#b9420c" stroke-width="2"/>
+    <text x="440" y="178" fill="#182535" font-size="32" font-weight="700">G7</text>
+    <text x="440" y="220" fill="#b9420c" font-family="Georgia, serif" font-size="28" font-weight="700">V7</text>
+    <rect x="588" y="130" width="150" height="112" rx="16" fill="#eef2ff" stroke="#2d5ce3" stroke-width="2"/>
+    <text x="610" y="178" fill="#182535" font-size="32" font-weight="700">C</text>
+    <text x="610" y="220" fill="#2d5ce3" font-family="Georgia, serif" font-size="28" font-weight="700">I</text>
+  </g>
+  <rect x="78" y="282" width="660" height="330" rx="22" fill="#fff" stroke="#d8e0eb" stroke-width="2"/>
+  <g stroke="#e2e7ef" stroke-width="2">
+    <line x1="118" y1="350" x2="708" y2="350"/><line x1="118" y1="430" x2="708" y2="430"/><line x1="118" y1="510" x2="708" y2="510"/>
+  </g>
+  <path d="M153 560 L323 420 L493 380 L663 545" fill="none" stroke="#182535" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M153 560 L323 370 L493 335 L663 545" fill="none" stroke="#2d5ce3" stroke-width="5" stroke-dasharray="16 12"/>
+  <g fill="#182535"><circle cx="153" cy="560" r="9"/><circle cx="323" cy="420" r="9"/><circle cx="493" cy="380" r="9"/><circle cx="663" cy="545" r="9"/></g>
+  <g fill="#fff" stroke="#2d5ce3" stroke-width="4"><circle cx="323" cy="370" r="13"/><circle cx="493" cy="335" r="13"/></g>
+  <text x="118" y="320" fill="#526176" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">TENSION · CURRENT VS TARGET</text>
+  <rect x="790" y="130" width="332" height="482" rx="22" fill="#182535"/>
+  <text x="826" y="184" fill="#9fb2d4" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">VOICING PATH</text>
+  <g transform="translate(846 220)">
+    <rect x="0" y="0" width="220" height="10" fill="#e8edf6"/>
+    <g stroke="#7d8a9b" stroke-width="3">
+      <line x1="0" y1="10" x2="0" y2="330"/><line x1="44" y1="10" x2="44" y2="330"/><line x1="88" y1="10" x2="88" y2="330"/>
+      <line x1="132" y1="10" x2="132" y2="330"/><line x1="176" y1="10" x2="176" y2="330"/><line x1="220" y1="10" x2="220" y2="330"/>
+    </g>
+    <g stroke="#4a5a70" stroke-width="2">
+      <line x1="0" y1="74" x2="220" y2="74"/><line x1="0" y1="138" x2="220" y2="138"/><line x1="0" y1="202" x2="220" y2="202"/><line x1="0" y1="266" x2="220" y2="266"/><line x1="0" y1="330" x2="220" y2="330"/>
+    </g>
+    <g fill="#e8edf6"><circle cx="44" cy="234" r="17"/><circle cx="88" cy="170" r="17"/><circle cx="176" cy="106" r="17"/></g>
+    <g fill="none" stroke="#e8edf6" stroke-width="3"><circle cx="132" cy="-18" r="10"/><circle cx="220" cy="-18" r="10"/></g>
+  </g>
+</svg>
