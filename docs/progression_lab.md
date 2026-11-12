@@ -1,6 +1,6 @@
 # Progression Lab
 
-A tension-aware chord-progression analyser, reharmoniser and guitar-voicing optimiser. It runs entirely in the browser: no backend, no API, no paid services. The live page is https://portfolio-site-flax-one-48.vercel.app/work/progression-lab. Its React UI (analyser, library browser and circle-of-fifths view) lives in the portfolio site; this repository contains the engine, its tests and the documentation.
+A tension-aware chord-progression analyser, reharmoniser and guitar-voicing optimiser. It runs entirely in the browser: no backend, no API, no paid services. The live page is https://astro-young.com/work/progression-lab. Its React UI (analyser, library browser and circle-of-fifths view) lives in the portfolio site; this repository contains the engine, its tests and the documentation.
 
 ## Architecture
 
