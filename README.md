@@ -6,7 +6,7 @@ Built with AI coding agents (Claude, Codex); tests and verification by me.
 
 ![Harmonic analysis of a progression that modulates from C to G: each chord shows its Roman numeral and function, the pivot chord Am is named, and an authentic and a half cadence are listed](docs/screenshots/analysis-regions.png)
 
-The engine's analysis as rendered by the portfolio site's UI: Roman numerals, functions, a modulation from C to G with its pivot chord, and cadences. Screenshot from an earlier build of the site. Interactive version: https://portfolio-site-flax-one-48.vercel.app/work/progression-lab
+The engine's analysis as rendered by the portfolio site's UI: Roman numerals, functions, a modulation from C to G with its pivot chord, and cadences. Screenshot from an earlier build of the site. Interactive version: https://astro-young.com/work/progression-lab
 
 ## Results
 
